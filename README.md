@@ -2,6 +2,9 @@
 Random iOS Siri Shortcuts I've made, most of which are replicas of jailbroken tweaks made to work in stock ios<br>
 Some of these require <a href="https://apps.apple.com/us/app/toolbox-pro-for-shortcuts/id1476205977">Toolbox Pro</a> to function
 
+# Apple Intelligence
+Apple Intelligence: https://www.icloud.com/shortcuts/959a8424176c4c2186c06b7a8ba1e786
+
 # Always Active
 Always on Display: https://www.icloud.com/shortcuts/cfffb29f805448b9a1d27f7ca56d8c5d <br>
 <a href="https://github.com/yrnehli/PauseOnMute">Puase on Mute</a>: https://www.icloud.com/shortcuts/1c125dc986ac46b9816d0265ec273111 <br>
