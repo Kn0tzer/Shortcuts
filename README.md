@@ -3,6 +3,7 @@ Random iOS Siri Shortcuts I've made, most of which are replicas of jailbroken tw
 Some of these require <a href="https://apps.apple.com/us/app/toolbox-pro-for-shortcuts/id1476205977">Toolbox Pro</a> to function
 
 # Apple Intelligence
+WORK IN PROGRESS - Major overhaul coming very soon<br>
 Apple Intelligence: https://www.icloud.com/shortcuts/959a8424176c4c2186c06b7a8ba1e786
 
 # Always Active
