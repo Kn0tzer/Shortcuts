@@ -19,6 +19,7 @@ Always on Display: https://www.icloud.com/shortcuts/cfffb29f805448b9a1d27f7ca56d
 # Live Wallpaper
 Posts: <a href="https://www.reddit.com/r/shortcuts/comments/1ccaubc/working_live_wallpaper_coming_soon_not_a_shitpost">Announcement</a>, <a href="https://www.reddit.com/r/shortcuts/comments/1cl5if3/unfinished_live_wallpaper_encouraging_others_to">Discontinuation</a><br>
 Best on iOS 16 or earlier. Needs testing on iOS 18+<br>
+Update: It wasn't patched in iOS 17 as I thought, instead Apple made iOS so incredibly slow it seemed like it was rate limited. For now on iOS 16+ I wouldn't recomend using this unless you have a very high end device and are willing to deal with constant full device crashes and lag. This project will not get any future support.<br>
 Setup: https://www.icloud.com/shortcuts/e6e873eab2e64b999996ba83a28dd20e <br>
 Start: https://www.icloud.com/shortcuts/71578c0ee89b46dfbc60200b2d610805 <br>
 Stop: https://www.icloud.com/shortcuts/61fc5599f12341adb7fdf141696128a7
