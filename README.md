@@ -11,18 +11,18 @@ Lockdown mode is a way to prevent apps from being opened or closed and keep your
 iLog is never being released due to it's complexity. Lockdown can in theory be released, but would need a major overhaul to do so. If anyone is interested, make a GitHub issue or contact me.<br>
 <a href="https://i.imgur.com/g2kptnu.mp4">iLog and some of Lockdown Mode video showcase</a> (Due to Lockdown Modes complexity, it can't be recorded through a typical screen recording)
 
+# Live Wallpaper
+Posts: <a href="https://www.reddit.com/r/shortcuts/comments/1ccaubc/working_live_wallpaper_coming_soon_not_a_shitpost">Announcement</a>, <a href="https://www.reddit.com/r/shortcuts/comments/1cl5if3/unfinished_live_wallpaper_encouraging_others_to">Discontinuation</a><br>
+Best on iOS 16 or earlier. Needs testing on iOS 18+<br>
+Update: It wasn't patched in iOS 17 as I thought, instead Apple made iOS so incredibly slow it seemed like it was rate limited. For now on iOS 16+ I wouldn't recommend using this unless you're willing to deal with constant lag and occasional full device crashes. This project will not get any future support.<br>
+Setup: https://www.icloud.com/shortcuts/e6e873eab2e64b999996ba83a28dd20e <br>
+Start: https://www.icloud.com/shortcuts/71578c0ee89b46dfbc60200b2d610805 <br>
+Stop: https://www.icloud.com/shortcuts/61fc5599f12341adb7fdf141696128a7
+
 # Always Active
 Always on Display: https://www.icloud.com/shortcuts/cfffb29f805448b9a1d27f7ca56d8c5d <br>
 <a href="https://github.com/yrnehli/PauseOnMute">Puase on Mute</a>: https://www.icloud.com/shortcuts/1c125dc986ac46b9816d0265ec273111 <br>
 ^ Both combined: https://www.icloud.com/shortcuts/8289b97c41b44c57a6e0b9afa6fc9b72
-
-# Live Wallpaper
-Posts: <a href="https://www.reddit.com/r/shortcuts/comments/1ccaubc/working_live_wallpaper_coming_soon_not_a_shitpost">Announcement</a>, <a href="https://www.reddit.com/r/shortcuts/comments/1cl5if3/unfinished_live_wallpaper_encouraging_others_to">Discontinuation</a><br>
-Best on iOS 16 or earlier. Needs testing on iOS 18+<br>
-Update: It wasn't patched in iOS 17 as I thought, instead Apple made iOS so incredibly slow it seemed like it was rate limited. For now on iOS 16+ I wouldn't recomend using this unless you have a very high end device and are willing to deal with constant full device crashes and lag. This project will not get any future support.<br>
-Setup: https://www.icloud.com/shortcuts/e6e873eab2e64b999996ba83a28dd20e <br>
-Start: https://www.icloud.com/shortcuts/71578c0ee89b46dfbc60200b2d610805 <br>
-Stop: https://www.icloud.com/shortcuts/61fc5599f12341adb7fdf141696128a7
 
 # Random
 Music Looper (<a href="https://chariz.com/buy/kiyoharu/">Kiyoharu</a>): https://www.icloud.com/shortcuts/502329f143cf4a1fad250ee567138b7d <br>
