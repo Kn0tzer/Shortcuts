@@ -16,7 +16,7 @@ Posts: <a href="https://www.reddit.com/r/shortcuts/comments/1ccaubc/working_live
 Best on iOS 16 or earlier. Needs testing on iOS 18+<br>
 Update: It wasn't patched in iOS 17 as I thought, instead Apple made iOS so incredibly slow it seemed like it was rate limited. For now on iOS 16+ I wouldn't recommend using this unless you're willing to deal with constant lag and occasional full device crashes. This project will not get any future support.<br>
 Setup: https://www.icloud.com/shortcuts/e6e873eab2e64b999996ba83a28dd20e <br>
-Start: https://www.icloud.com/shortcuts/71578c0ee89b46dfbc60200b2d610805 <br>
+Start: https://www.icloud.com/shortcuts/73376f097ff74491896b4397e296cbc5 <br>
 Stop: https://www.icloud.com/shortcuts/61fc5599f12341adb7fdf141696128a7
 
 # Always Active
