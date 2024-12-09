@@ -25,7 +25,7 @@ Always on Display: https://www.icloud.com/shortcuts/cfffb29f805448b9a1d27f7ca56d
 ^ Both combined: https://www.icloud.com/shortcuts/8289b97c41b44c57a6e0b9afa6fc9b72
 
 # Random
-Wake on Song Change: https://www.icloud.com/shortcuts/095ce41b14094102b55ea69b9c8b4dc0
+Wake on Song Change: https://www.icloud.com/shortcuts/488074136428443f946a671d54bb8d1a <br>
 Music Looper (<a href="https://chariz.com/buy/kiyoharu/">Kiyoharu</a>): https://www.icloud.com/shortcuts/502329f143cf4a1fad250ee567138b7d <br>
 Equagram (<a href="https://eqe.fm">EQE</a>): https://www.icloud.com/shortcuts/fe254aacbccf487cbdbf1b295411da88 (<a href="https://www.reddit.com/r/jailbreak/comments/1bqd7ai/version_of_eqe_global_equalizer_without_a/">Post</a>)<br>
 Upload File: https://www.icloud.com/shortcuts/e04977ed4d5541748db0f30de4607b22<br>
