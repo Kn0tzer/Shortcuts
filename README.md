@@ -1,6 +1,8 @@
 # Shortcuts
 Some older shortcuts require <a href="https://apps.apple.com/us/app/toolbox-pro-for-shortcuts/id1476205977">Toolbox Pro</a> to function (Most don't)
 
+⭐❓
+
 # Not Apple Intelligence
 WORK IN PROGRESS - Major overhaul coming very soon<br>
 Not Apple Intelligence: https://www.icloud.com/shortcuts/959a8424176c4c2186c06b7a8ba1e786
